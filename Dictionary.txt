@@ -1,1 +1,6 @@
 1| apple|사과
+2| kiwi|키위
+3| pencil|연필
+2| grape|포도
+3| bag|가방
+1| bottle|병
